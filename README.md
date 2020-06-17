@@ -27,3 +27,18 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
+
+## Summary of Changes
+
+* Updated website title
+* Moved header out of body and to header/h1 tags
+* Fix linking to Search Engine Optimization
+* Simplified header HTML and CSS
+* Add nav bar
+* Updated to use aside for right-hand content
+* Reduced use of div throughout HTML
+
+To Do:
+* Update to use main, section, articles
+* Consolidate CSS where possible.
