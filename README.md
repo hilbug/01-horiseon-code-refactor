@@ -38,6 +38,7 @@ THEN I find a concise, descriptive title
 * Add nav bar
 * Updated to use aside for right-hand content and consolidated CSS
 * Updated to use footer
+* Updated to use main and consolidated CSS
 * Reduced use of div throughout HTML
 
 To Do:
