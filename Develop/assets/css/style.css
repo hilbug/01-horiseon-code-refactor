@@ -26,7 +26,7 @@ h1 span.seo {
     color: #d9dcd6;
 }
 
-/* Nav Bar */
+/* Navigation Bar */
 
 .topnav {
     float: right;
@@ -75,38 +75,6 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-/* Aside: Benefits */
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit-section {
-    color: #ffffff;
-}
-
-.benefit-section p {
-    margin-bottom: 32px;
-}
-
-.benefit-section h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-section img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /* Make these sections and consolidate? */
@@ -165,13 +133,47 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/* Aside: Benefits */
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefit-section {
+    color: #ffffff;
+}
+
+.benefit-section p {
+    margin-bottom: 32px;
+}
+
+.benefit-section h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-section img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Footer Section */
+
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }

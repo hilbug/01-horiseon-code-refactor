@@ -37,6 +37,7 @@ THEN I find a concise, descriptive title
 * Simplified header HTML and CSS
 * Add nav bar
 * Updated to use aside for right-hand content and consolidated CSS
+* Updated to use footer
 * Reduced use of div throughout HTML
 
 To Do:
