@@ -36,9 +36,10 @@ THEN I find a concise, descriptive title
 * Fix linking to Search Engine Optimization
 * Simplified header HTML and CSS
 * Add nav bar
-* Updated to use aside for right-hand content
+* Updated to use aside for right-hand content and consolidated CSS
 * Reduced use of div throughout HTML
 
 To Do:
 * Update to use main, section, articles
 * Consolidate CSS where possible.
+* When window resizes, how to get nav bar to not look awkward?, have it not move? set overflow?
