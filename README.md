@@ -1,5 +1,11 @@
 # 01-horiseon-code-refactor
-Homework 01: Refactoring code to meet accessibility standards.
+Homework 01: Refactoring a website's HTML and CSS to meet accessibility standards.
+
+## Deployed Link
+URL of page will go here.
+
+## Screenshot
+Screenshot will go here.
 
 ## User Story
 
@@ -31,17 +37,12 @@ THEN I find a concise, descriptive title
 
 ## Summary of Changes
 
-* Updated website title
-* Moved header out of body and to header/h1 tags
-* Fix linking to Search Engine Optimization
-* Simplified header HTML and CSS
-* Add nav bar
-* Updated to use aside for right-hand content and consolidated CSS
-* Updated to use footer
-* Updated to use main and consolidated CSS
-* Reduced use of div throughout HTML
+* Website title
+* Fixed linking to Search Engine Optimization
+* Simplified header HTML and added nav
+* Updated to use html elements: main, aside, footer
+* Consolidated CSS
+* Reduced use of divs
+* Incorporated ARIA labels for accessibility
 
-To Do:
-* Update to use main, section, articles
-* Consolidate CSS where possible.
-* When window resizes, how to get nav bar to not look awkward?, have it not move? set overflow?
+
