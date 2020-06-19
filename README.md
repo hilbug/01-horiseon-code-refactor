@@ -1,14 +1,14 @@
 # Horiseon Home Page Code Refactor
 The Horiseon Home Page was refactored to:
--meet accessibility standards
--incorporate HTML semantics
--simplify the CSS stylesheet
--improve page performance
+- meet accessibility standards
+- incorporate HTML semantics
+- simplify the CSS stylesheet
+- improve page performance
 
-Horiseon's revised home page can be accessed at the following link:
+Horiseon's revised home page can be accessed here:
 https://hilbug.github.io/01-horiseon-code-refactor/
 
-The following image is a preview of the page:
+Here is a preview of the home page:
 ![Screen Shot 2020-06-18 at 11 24 26 PM](https://user-images.githubusercontent.com/65197724/85094974-13a98200-b1be-11ea-8f10-c2d586cb5f0d.png)
 
 The client's __User Story__ was:
@@ -41,10 +41,10 @@ THEN I find a concise, descriptive title
 
 Here is a detailed __Summary of Changes__:
 
-* Website title
-* Fixed linking to Search Engine Optimization
-* Simplified header HTML and added nav
-* Updated to use html elements: main, aside, footer
-* Consolidated CSS
-* Reduced use of divs
-* Incorporated ARIA labels for accessibility
+*  Website title
+*  Fixed linking to Search Engine Optimization
+*  Simplified header HTML and added nav
+*  Updated to use html elements: main, aside, footer
+*  Consolidated CSS
+*  Reduced use of divs
+*  Incorporated ARIA labels for accessibility
